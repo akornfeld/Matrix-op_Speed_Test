@@ -1,0 +1,14 @@
+﻿Build started 1/18/2015 3:23:51 PM.
+     1>Project "E:\ari\2012+ Carnegie\Data\Models\SCOPE\RT_SpeedTest\RT_SpeedTest\RT_SpeedTest.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ari\2012+ Carnegie\Data\Models\SCOPE\RT_SpeedTest\x64\Release x64\RT_SpeedTest.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ari\2012+ Carnegie\Data\Models\SCOPE\RT_SpeedTest\x64\Release x64\RT_SpeedTest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ari\2012+ Carnegie\Data\Models\SCOPE\RT_SpeedTest\x64\Release x64\RT_SpeedTest.lib" /MACHINE:X64 "x64\Release x64\Matrix.obj"
+         "x64\Release x64\RT_SpeedTest.obj"
+         "x64\Release x64\stdafx.obj"
+         Generating code
+         Finished generating code
+         RT_SpeedTest.vcxproj -> E:\ari\2012+ Carnegie\Data\Models\SCOPE\RT_SpeedTest\x64\Release x64\RT_SpeedTest.exe
+     1>Done Building Project "E:\ari\2012+ Carnegie\Data\Models\SCOPE\RT_SpeedTest\RT_SpeedTest\RT_SpeedTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35
